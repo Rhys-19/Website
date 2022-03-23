@@ -6,6 +6,6 @@
 
   <a href="https://sites.google.com/view/wheretofindme/rhys-website">My personal website </a>
   
-<img src="https://cdn.dribbble.com/users/1261045/screenshots/11391612/media/58cd07da8fb87504d054fb1d186abcb0.gif" style="float:right;width:auto;height:auto;">
+<img src="https://cdn.dribbble.com/users/1261045/screenshots/11391612/media/58cd07da8fb87504d054fb1d186abcb0.gif" style="width:400px;height:400px;">
 
 </html>
