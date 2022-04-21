@@ -1,6 +1,6 @@
 body{
-	background-color:#f4f4f4;
-	color:#555555;
+	background-color:;
+	color:white;
 	font-family:Arial, helvetica, sans-serif;
 	font-size:16px;
 	line-height:1.0cm;
@@ -20,7 +20,7 @@ body{
 
 #navbar{
 	background-color:black;
-	color:#fff;
+	color:#fff; 
 }
 	
 #navbar ul{
@@ -69,6 +69,7 @@ float:left;
 width:70%;
 padding:10px;
 box-sizing:border-box;
+text-align:center;
 }
 
 #sidebar{
@@ -100,7 +101,7 @@ line-height:1.6;
 padding:30px;
 }
 
-@media (max-width:550px) {
+@media (max-width:570px) {
 #main{
 width:100%;
 float:none;
@@ -109,6 +110,6 @@ float:none;
 
 #navbar li{
 display:block;
+text-align:center;
 }
 
-}
